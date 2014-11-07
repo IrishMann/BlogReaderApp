@@ -17,7 +17,7 @@ public class BlogPostAdapter extends ArrayAdapter<BlogPost>{
         BlogPost post = getItem(position);
 
         if (convertView == null) {
-            convertView
+            convertView;
         }
     }
 }
